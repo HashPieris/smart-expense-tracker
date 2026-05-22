@@ -1,4 +1,4 @@
-# 💰 Smart Expense Tracker
+# Smart Expense Tracker
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -64,7 +64,7 @@
     python -m http.server 8000
 
 # Using VS Code Live Server extension
-📖 How to Use
+ How to Use
 Adding a Transaction
 Click "Tambah Transaksi" button
 
@@ -99,13 +99,13 @@ Click "Export" button
 
 Your data will be downloaded as a JSON file
 
-📁 Project Structure
+ Project Structure
 text
 smart-expense-tracker/
 ├── index.html          # Main application file
 ├── README.md           # Documentation
 └── .gitignore          # Git ignore file
-🎨 Screenshots
+ Screenshots
 Dashboard View
 https://via.placeholder.com/800x400?text=Smart+Expense+Tracker+Dashboard
 
@@ -115,7 +115,7 @@ https://via.placeholder.com/800x400?text=Add+Transaction+Modal
 Budget Alert System
 https://via.placeholder.com/800x400?text=Budget+Alert+System
 
-🔧 Future Enhancements
+ Future Enhancements
 Dark mode support
 
 Multiple currency support
@@ -130,7 +130,7 @@ Cloud sync (Firebase integration)
 
 Spending insights and recommendations
 
-🤝 Contributing
+ Contributing
 Contributions are welcome! If you'd like to improve this project:
 
 Fork the repository
@@ -143,21 +143,21 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
+ License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-👨‍💻 Author
+ Author
 Yonatan Sinaga
 
 GitHub: @HashPieris
 
-Portfolio: yonatan-sinaga.com
+Portfolio: yonatansinaga-portofolio.wuaze.com
 
 LinkedIn: linkedin.com/in/yonatansinaga
 
 Email: yonatansinaga2023@gmail.com
 
-🙏 Acknowledgments
+ Acknowledgments
 Tailwind CSS — For the amazing utility-first CSS framework
 
 Chart.js — For beautiful and simple charts
@@ -166,4 +166,4 @@ Font Awesome — For the icons
 
 GitHub Pages — For free hosting
 
-⭐️ If you found this project useful, please give it a star on GitHub
+ If you found this project useful, please give it a star on GitHub
